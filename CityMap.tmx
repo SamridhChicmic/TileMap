@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="38">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="39">
  <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -144,6 +144,12 @@
    <image width="364" height="140" source="DockAssets/DockAssets00010.png"/>
   </tile>
  </tileset>
+ <tileset firstgid="45" name="SmallHouseAsstes" tilewidth="292" tileheight="200" tilecount="1" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="292" height="200" source="SmallHouseAssets/SmallHouse.png"/>
+  </tile>
+ </tileset>
  <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
@@ -184,5 +190,6 @@
   <object id="32" gid="30" x="1351.03" y="831.468" width="63" height="47"/>
   <object id="33" gid="32" x="1354.95" y="737.055" width="56" height="46"/>
   <object id="37" gid="43" x="1376.62" y="187.382" width="364" height="263"/>
+  <object id="38" gid="45" x="1042.45" y="143.545" width="292" height="200"/>
  </objectgroup>
 </map>
