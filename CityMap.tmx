@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="102">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="113">
  <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -369,6 +369,33 @@
    <image width="26" height="27" source="MuseumAssets/MuseumAssets00012.png"/>
   </tile>
  </tileset>
+ <tileset firstgid="115" name="HotelAssets" tilewidth="787" tileheight="599" tilecount="8" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="140" height="144" source="HotelAssets/HotelAssets00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="36" height="72" source="HotelAssets/HotelAssets00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="787" height="599" source="HotelAssets/HotelAssets00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="408" height="266" source="HotelAssets/HotelAssets00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="50" height="37" source="HotelAssets/HotelAssets00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="610" height="395" source="HotelAssets/HotelAssets00006.png"/>
+  </tile>
+  <tile id="6">
+   <image width="120" height="80" source="HotelAssets/HotelAssets00007.png"/>
+  </tile>
+  <tile id="7">
+   <image width="85" height="152" source="HotelAssets/HotelAssets00008.png"/>
+  </tile>
+ </tileset>
  <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
@@ -467,5 +494,12 @@
   <object id="98" gid="107" x="283.527" y="746.655" width="6" height="27"/>
   <object id="99" gid="107" x="293.891" y="650.109" width="6" height="27"/>
   <object id="100" gid="112" x="245.879" y="604.121" width="27" height="37"/>
+  <object id="102" gid="120" x="810.636" y="1235.36" width="610" height="395"/>
+  <object id="103" gid="121" x="759.43" y="1345.9" width="120" height="80"/>
+  <object id="104" gid="118" x="1060.93" y="1261.07" width="408" height="266"/>
+  <object id="105" gid="115" x="1083.43" y="1371.24" width="140" height="144"/>
+  <object id="106" gid="122" x="1072.25" y="1001.08" width="85" height="152"/>
+  <object id="107" gid="116" x="814.376" y="1188.29" width="36" height="72"/>
+  <object id="112" gid="119" x="857.906" y="1355.73" width="50" height="37"/>
  </objectgroup>
 </map>
