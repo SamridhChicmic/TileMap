@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="38">
+ <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="2605" height="1508" source="MapBase/Base.png"/>
+  </tile>
+  <tile id="1">
+   <image width="2605" height="1593" source="MapBase/refercneBase.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="BeachAssets" tilewidth="138" tileheight="106" tilecount="26" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="17" height="17" source="BeachAssets/BeachAsset00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="16" height="9" source="BeachAssets/BeachAsset00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="16" height="9" source="BeachAssets/BeachAsset00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="16" height="9" source="BeachAssets/BeachAsset00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="16" height="9" source="BeachAssets/BeachAsset00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="25" height="18" source="BeachAssets/BeachAsset00006.png"/>
+  </tile>
+  <tile id="6">
+   <image width="112" height="89" source="BeachAssets/BeachAsset00007.png"/>
+  </tile>
+  <tile id="7">
+   <image width="112" height="89" source="BeachAssets/BeachAsset00008.png"/>
+  </tile>
+  <tile id="8">
+   <image width="25" height="18" source="BeachAssets/BeachAsset00009.png"/>
+  </tile>
+  <tile id="9">
+   <image width="21" height="14" source="BeachAssets/BeachAsset00010.png"/>
+  </tile>
+  <tile id="10">
+   <image width="114" height="106" source="BeachAssets/BeachAsset00011.png"/>
+  </tile>
+  <tile id="11">
+   <image width="42" height="30" source="BeachAssets/BeachAsset00012.png"/>
+  </tile>
+  <tile id="12">
+   <image width="25" height="18" source="BeachAssets/BeachAsset00013.png"/>
+  </tile>
+  <tile id="13">
+   <image width="25" height="18" source="BeachAssets/BeachAsset00014.png"/>
+  </tile>
+  <tile id="14">
+   <image width="138" height="93" source="BeachAssets/BeachAsset00015.png"/>
+  </tile>
+  <tile id="15">
+   <image width="20" height="20" source="BeachAssets/BeachAsset00016.png"/>
+  </tile>
+  <tile id="16">
+   <image width="95" height="99" source="BeachAssets/BeachAsset00017.png"/>
+  </tile>
+  <tile id="17">
+   <image width="117" height="84" source="BeachAssets/BeachAsset00018.png"/>
+  </tile>
+  <tile id="18">
+   <image width="42" height="30" source="BeachAssets/BeachAsset00019.png"/>
+  </tile>
+  <tile id="19">
+   <image width="25" height="18" source="BeachAssets/BeachAsset00020.png"/>
+  </tile>
+  <tile id="20">
+   <image width="42" height="30" source="BeachAssets/BeachAsset00021.png"/>
+  </tile>
+  <tile id="21">
+   <image width="42" height="30" source="BeachAssets/BeachAsset00022.png"/>
+  </tile>
+  <tile id="22">
+   <image width="16" height="9" source="BeachAssets/BeachAsset00023.png"/>
+  </tile>
+  <tile id="23">
+   <image width="98" height="90" source="BeachAssets/BeachAsset00024.png"/>
+  </tile>
+  <tile id="24">
+   <image width="14" height="14" source="BeachAssets/BeachAsset00025.png"/>
+  </tile>
+  <tile id="25">
+   <image width="14" height="14" source="BeachAssets/BeachAsset00026.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="29" name="CafeAsset" tilewidth="303" tileheight="286" tilecount="6" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="25" height="67" source="CafeAsset/CafeAsset00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="63" height="47" source="CafeAsset/CafeAsset00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="47" height="43" source="CafeAsset/CafeAsset00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="56" height="46" source="CafeAsset/CafeAsset00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="220" height="220" source="CafeAsset/CafeAsset00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="303" height="286" source="CafeAsset/CafeAsset00006.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="35" name="DockAssets" tilewidth="364" tileheight="263" tilecount="10" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="6" height="30" source="DockAssets/DockAssets00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="6" height="52" source="DockAssets/DockAssets00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="6" height="44" source="DockAssets/DockAssets00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="7" height="51" source="DockAssets/DockAssets00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="208" height="218" source="DockAssets/DockAssets00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="5" height="25" source="DockAssets/DockAssets00006.png"/>
+  </tile>
+  <tile id="6">
+   <image width="7" height="52" source="DockAssets/DockAssets00007.png"/>
+  </tile>
+  <tile id="7">
+   <image width="6" height="27" source="DockAssets/DockAssets00008.png"/>
+  </tile>
+  <tile id="8">
+   <image width="364" height="263" source="DockAssets/DockAssets00009.png"/>
+  </tile>
+  <tile id="9">
+   <image width="364" height="140" source="DockAssets/DockAssets00010.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="layer" width="51" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
+  </data>
+ </layer>
+ <objectgroup id="3" name="base_map">
+  <object id="1" gid="2" x="1565.13" y="1438.87" width="2605" height="1593" visible="0"/>
+ </objectgroup>
+ <layer id="4" name="hurdles" width="51" height="43">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
+  </data>
+ </layer>
+ <objectgroup id="2" name="objectLayer">
+  <object id="2" gid="14" x="1187.5" y="470.995" width="42" height="30"/>
+  <object id="3" gid="14" x="1370.83" y="600.503" width="42" height="30"/>
+  <object id="4" gid="14" x="1306.58" y="1081.42" width="42" height="30"/>
+  <object id="5" gid="14" x="1347.86" y="1083.14" width="42" height="30"/>
+  <object id="6" gid="13" x="1323.99" y="594.006" width="114" height="106"/>
+  <object id="7" gid="9" x="1451.62" y="582.382" width="112" height="89"/>
+  <object id="8" gid="20" x="1018.63" y="319.868" width="117" height="84"/>
+  <object id="9" gid="17" x="1144.01" y="380.661" width="138" height="93"/>
+  <object id="10" gid="4" x="1121.45" y="226.545" width="16" height="9"/>
+  <object id="11" gid="19" x="1536.28" y="822.388" width="95" height="99"/>
+  <object id="12" gid="18" x="1549.02" y="718.477" width="20" height="20"/>
+  <object id="13" gid="3" x="1393.31" y="1000.44" width="17" height="17"/>
+  <object id="14" gid="10" x="1416.79" y="1215.87" width="112" height="89"/>
+  <object id="15" gid="26" x="1356.08" y="1047.42" width="98" height="90"/>
+  <object id="16" gid="4" x="1343.74" y="1244.62" width="16" height="9"/>
+  <object id="17" gid="4" x="1283.75" y="1135.58" width="16" height="9"/>
+  <object id="18" gid="4" x="1422.61" y="899.931" width="16" height="9"/>
+  <object id="20" gid="4" x="1497.2" y="525.349" width="16" height="9"/>
+  <object id="21" gid="4" x="1549.69" y="508.309" width="16" height="9"/>
+  <object id="22" gid="12" x="1442.85" y="851.145" width="21" height="14"/>
+  <object id="29" gid="33" x="1300.27" y="789.727" width="220" height="220"/>
+  <object id="30" gid="29" x="1220.46" y="838.206" width="25" height="67"/>
+  <object id="31" gid="31" x="1272.95" y="841.048" width="47" height="43"/>
+  <object id="32" gid="30" x="1351.03" y="831.468" width="63" height="47"/>
+  <object id="33" gid="32" x="1354.95" y="737.055" width="56" height="46"/>
+  <object id="37" gid="43" x="1376.62" y="187.382" width="364" height="263"/>
+ </objectgroup>
+</map>

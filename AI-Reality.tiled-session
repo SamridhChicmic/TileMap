@@ -1,0 +1,764 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "MapBase",
+        "/Users/samridhgupta/Desktop/Retrosis",
+        "TileBase",
+        "MapAssets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/Path2/Map.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 360.5,
+                "y": 298
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/Path2/Map.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/Path2/Map.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/TiledMapData/Map1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -1150,
+                "y": 368.1818181818182
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/resources/TiledMapData/Map1.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 542,
+                "y": 962
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/resources/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/resources/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/resources/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/resources/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/AntvsAnt/MapOne.tmx": {
+            "scale": 0.72140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 481.00498158977683,
+                "y": 320.207927225471
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/AntvsAnt/MapOne.tmx#FIELD": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/AntvsAnt/MapOne.tmx#Ground_02": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/Maps/Background.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/Maps/Ground.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/Maps/map.tmx": {
+            "scale": 0.72,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.55555555555554,
+                "y": 320.8333333333333
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/map_arena.tmx": {
+            "scale": 0.6258124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 401.87755917307504,
+                "y": 643.9628482972138
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/map_arena.tmx#collission": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/map_arena.tmx#tileset_arena": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/floor2.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/floorTileset.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/mainRoom.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1048.4848484848485,
+                "y": 481.818181818182
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/walls.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx": {
+            "scale": 0.36169270833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 541.8964648282813,
+                "y": 1183.3249334005327
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map2.tmx": {
+            "scale": 0.21127604166666664,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 541.9450265006781,
+                "y": 934.7960064094665
+            }
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map2.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map2.tmx#PathBricks": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map2.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map2.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Maps/Background.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/Maps/Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/Maps/map.tmx": {
+            "scale": 1.04,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 473.0769230769231,
+                "y": 305.28846153846155
+            }
+        },
+        "/Users/samridhgupta/Desktop/Retrosis/floor2.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Retrosis/floorTileset.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/Retrosis/mainRoom.tmx": {
+            "scale": 0.59,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.6779661016949,
+                "y": 321.1864406779661
+            }
+        },
+        "/Users/samridhgupta/Desktop/Retrosis/walls.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 603,
+                "y": 222
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map.tmx#PathBricks-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map2.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 542.3522705681171,
+                "y": 960.6688200646018
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map2.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map5.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 921.7556526695801,
+                "y": 1126.0497814934447
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/Map5.tmx#GrassBackGround-min": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map10.tmx": {
+            "scale": 0.41,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 919.512195121951,
+                "y": 1124.390243902439
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map10.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map10.tmx#PathBricks-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map11.tmx": {
+            "scale": 0.41,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 921.9512195121949,
+                "y": 1121.9512195121952
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map11.tmx#3-35294_waterfall-pond-clipart-water-pond-pond": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map11.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map11.tmx#PathBricks-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map3.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 505.87117613528414,
+                "y": 941.212236367091
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map3.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map4.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 997.149914497435,
+                "y": 1028.7668630058902
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map4.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map6.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 921.7556526695801,
+                "y": 1126.0497814934447
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map6.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map7.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 921.7556526695801,
+                "y": 1126.0497814934447
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map7.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map7.tmx#PathBricks-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map8.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 921.7556526695801,
+                "y": 1126.0497814934447
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map8.tmx#GrassBackGround-min": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map9.tmx": {
+            "scale": 0.41117187499999996,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 919.3235797073914,
+                "y": 1123.6177085312559
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/AntvsAntPath/map9.tmx#GrassBackGround-min": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/Path2/Map.tmx": {
+            "scale": 1.0977777777777775,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 362.095141700405,
+                "y": 603.9473684210527
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/Path2/Map.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/Path2/Map.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/GrassBackGround.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/Map1.tmx": {
+            "expandedObjectLayers": [
+                6,
+                5,
+                8
+            ],
+            "scale": 0.41117187499999996,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 543.5683070492115,
+                "y": 943.6443093292798
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/Map1.tmx#smallTree": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/Map1.tmx#treeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/PathBricks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/combine3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/rock.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/PathMap/treeGroup.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx": {
+            "scale": 0.4794531249999999,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 935.4407691054262,
+                "y": 934.39791429037
+            }
+        },
+        "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/floor2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/floorTileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/isoMetricMap.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1979.9999999999998,
+                "y": 826
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/isoMetricMap.tmx#map_objects1": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/map_objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.03125
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/sofa.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/test_map_image.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/walls.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/GameMap1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1264,
+                "y": 490
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/map_base.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/mapwall.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/newWalls.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/sensorSmall.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/smallBoundry.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/maps/Map1/boundry.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/maps/Map1/map.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1184,
+                "y": 200
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/maps/Map1/mapBG.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/map-1920*1080/Dungeon_Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/map-1920*1080/map.tmx": {
+            "scale": 0.22001284246575342,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1172.65881895126,
+                "y": 886.311898044557
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/Dungeon_Tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/aimap.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/finalmaps.tmx": {
+            "scale": 0.23971548507462684,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1074.1900963128712,
+                "y": 673.7153419593348
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/map.tmx": {
+            "scale": 0.5353645833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 481.9145831306547,
+                "y": 321.27638875376977
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/map.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/rombouts-flavien-among-us-map (1).tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx": {
+            "scale": 0.36169270833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 540.5140758873929,
+                "y": 944.171646626827
+            }
+        },
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/Cocos copy/map_town.tmx": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 293.5,
+                "y": 1050.6666666666665
+            }
+        },
+        "/Users/samridhgupta/Downloads/Cocos copy/map_town.tmx#collision_graphic": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/Cocos copy/map_town.tmx#tileset_town": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/Cocos/map_town.tmx": {
+            "scale": 0.2607552083333333,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 481.2943173873964,
+                "y": 1288.564865674623
+            }
+        },
+        "/Users/samridhgupta/Downloads/Cocos/map_town.tmx#collision_graphic": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/Cocos/map_town.tmx#tileset_town": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map1.tmx": {
+            "scale": 0.36169270833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 301.36078911368713,
+                "y": 1172.265821873425
+            }
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map1.tmx#PathBricks": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map2.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 972,
+                "y": 296
+            }
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map2.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map2.tmx#PathBricks": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map2.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData 3/Map2.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData/Map1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 543.939393939394,
+                "y": 945.4545454545454
+            }
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData/Map1.tmx#GrassBackGround": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData/Map1.tmx#PathBricks": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData/Map1.tmx#Pond": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/TiledMapData/Map1.tmx#TreeGroup": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx": {
+            "scale": 0.26,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1461.5384615384614,
+                "y": 826.9230769230769
+            }
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#Cottage": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#Ground_02": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#Images": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#Path": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#streakss": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel1.tmx#tower": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel9.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 2070,
+                "y": 170
+            }
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel9.tmx#Images": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel9.tmx#Path": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel9.tmx#streakss": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/resources/Maps/gameLevel9.tmx#tower": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/textures/Maps/GroupTree.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Downloads/towerdefence-cocos2d/assets/textures/Maps/Pond/Pond.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "CityMap.tmx": {
+            "scale": 0.40756286266924563,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1252.5675098476581,
+                "y": 732.402353946182
+            }
+        },
+        "CityMap.tmx#BeachAssets": {
+            "dynamicWrapping": true
+        },
+        "CityMap.tmx#CityBase": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "CityMap.tmx#MapBase": {
+            "dynamicWrapping": true
+        },
+        "floor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/samridhgupta/Desktop/Maps",
+    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/DockAssets",
+    "map.height": 43,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.renderOrder": null,
+    "map.tileHeight": 32,
+    "map.tileWidth": 55,
+    "map.width": 51,
+    "openFiles": [
+    ],
+    "project": "AI-Reality.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "floor.tsx",
+        "CityMap.tmx",
+        "CityView.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/isoMetricMap.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/GameMap1.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/maps/Map1/map.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/finalmaps.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/map-1920*1080/map.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/map.tmx",
+        "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx",
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/mainRoom.tmx",
+        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 55
+    },
+    "tileset.type": 1
+}
