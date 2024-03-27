@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="154">
- <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="166">
+ <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1508" tilecount="1" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
    <image width="2605" height="1508" source="MapBase/Base.png"/>
-  </tile>
-  <tile id="1">
-   <image width="2605" height="1593" source="MapBase/refercneBase.png"/>
   </tile>
  </tileset>
  <tileset firstgid="3" name="BeachAssets" tilewidth="138" tileheight="106" tilecount="26" columns="0">
@@ -396,7 +393,7 @@
    <image width="85" height="152" source="HotelAssets/HotelAssets00008.png"/>
   </tile>
  </tileset>
- <tileset firstgid="123" name="GardenAssets" tilewidth="646" tileheight="329" tilecount="11" columns="0">
+ <tileset firstgid="123" name="GardenAssets" tilewidth="646" tileheight="329" tilecount="14" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
    <image width="113" height="98" source="GardenAssets/GardenAssets00001.png"/>
@@ -431,6 +428,15 @@
   <tile id="10">
    <image width="29" height="49" source="GardenAssets/GardenAssets00011.png"/>
   </tile>
+  <tile id="11">
+   <image width="305" height="228" source="GardenAssets/GardenAssets000012.png"/>
+  </tile>
+  <tile id="12">
+   <image width="48" height="69" source="GardenAssets/GardenAssets000013.png"/>
+  </tile>
+  <tile id="13">
+   <image width="107" height="115" source="GardenAssets/GardenAssets000014.png"/>
+  </tile>
  </tileset>
  <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
@@ -438,13 +444,19 @@
   </data>
  </layer>
  <objectgroup id="3" name="base_map">
-  <object id="1" gid="2" x="1565.13" y="1438.87" width="2605" height="1593" visible="0"/>
+  <object id="157" gid="1" x="1565.96" y="1442.04" width="2605" height="1508"/>
  </objectgroup>
  <layer id="4" name="hurdles" width="51" height="43">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
   </data>
  </layer>
+ <objectgroup id="6" name="BaseObject">
+  <object id="162" gid="47" x="711.673" y="268.327" width="254" height="115"/>
+  <object id="163" gid="132" x="374.545" y="1305.45" width="646" height="329"/>
+  <object id="164" gid="89" x="288.612" y="481.388" width="188" height="111"/>
+  <object id="165" gid="59" x="938.079" y="955.921" width="704" height="485"/>
+ </objectgroup>
  <objectgroup id="2" name="objectLayer">
   <object id="2" gid="14" x="1187.5" y="470.995" width="42" height="30"/>
   <object id="3" gid="14" x="1370.83" y="600.503" width="42" height="30"/>
@@ -503,8 +515,6 @@
   <object id="70" gid="72" x="461.417" y="548.583" width="40" height="38"/>
   <object id="71" gid="76" x="504.855" y="544.418" width="50" height="30"/>
   <object id="72" gid="78" x="552.582" y="551.418" width="46" height="31"/>
-  <object id="73" gid="78" x="1644.04" y="1031.96" width="46" height="31"/>
-  <object id="74" gid="78" x="4368.29" y="3183.71" width="46" height="31"/>
   <object id="75" gid="102" x="200.055" y="401.945" width="535" height="392"/>
   <object id="76" gid="91" x="153.58" y="482.783" width="48" height="31"/>
   <object id="77" gid="86" x="150.82" y="442.998" width="40" height="27"/>
@@ -537,7 +547,6 @@
   <object id="106" gid="122" x="1072.25" y="1001.08" width="85" height="152"/>
   <object id="107" gid="116" x="814.376" y="1188.29" width="36" height="72"/>
   <object id="112" gid="119" x="857.906" y="1355.73" width="50" height="37"/>
-  <object id="113" gid="119" x="2090.08" y="1293.38" width="50" height="37"/>
   <object id="114" gid="124" x="5.38182" y="1334.25" width="22" height="23"/>
   <object id="115" gid="124" x="5.18017" y="1307.18" width="22" height="23"/>
   <object id="116" gid="124" x="5.32562" y="1279.4" width="22" height="23"/>
@@ -576,5 +585,8 @@
   <object id="151" gid="131" x="347.341" y="1377.16" width="62" height="44"/>
   <object id="152" gid="131" x="419.821" y="1376.54" width="62" height="44"/>
   <object id="153" gid="131" x="494.073" y="1376.11" width="62" height="44"/>
+  <object id="154" gid="134" x="266.873" y="1033.13" width="305" height="228"/>
+  <object id="155" gid="135" x="386.655" y="953.345" width="48" height="69"/>
+  <object id="156" gid="136" x="486.927" y="975.073" width="107" height="115"/>
  </objectgroup>
 </map>

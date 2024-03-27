@@ -716,6 +716,9 @@
             "dynamicWrapping": false,
             "scaleInDock": 1
         },
+        "CityMap.tmx#GardenAssets": {
+            "dynamicWrapping": true
+        },
         "CityMap.tmx#HouseAssets": {
             "dynamicWrapping": true
         },
