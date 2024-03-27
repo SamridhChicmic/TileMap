@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="89">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="102">
  <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -330,6 +330,45 @@
    <image width="535" height="392" source="HouseAssets/HouseAssets00018.png"/>
   </tile>
  </tileset>
+ <tileset firstgid="103" name="MuseumAssets" tilewidth="533" tileheight="367" tilecount="12" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="6" height="27" source="MuseumAssets/MuseumAssets00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="34" height="69" source="MuseumAssets/MuseumAssets00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="21" height="67" source="MuseumAssets/MuseumAssets00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="7" height="28" source="MuseumAssets/MuseumAssets00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="6" height="27" source="MuseumAssets/MuseumAssets00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="26" height="27" source="MuseumAssets/MuseumAssets00006.png"/>
+  </tile>
+  <tile id="6">
+   <image width="6" height="27" source="MuseumAssets/MuseumAssets00007.png"/>
+  </tile>
+  <tile id="7">
+   <image width="533" height="367" source="MuseumAssets/MuseumAssets00008.png"/>
+  </tile>
+  <tile id="8">
+   <image width="296" height="277" source="MuseumAssets/MuseumAssets00009.png"/>
+  </tile>
+  <tile id="9">
+   <image width="27" height="37" source="MuseumAssets/MuseumAssets00010.png"/>
+  </tile>
+  <tile id="10">
+   <image width="32" height="52" source="MuseumAssets/MuseumAssets00011.png"/>
+  </tile>
+  <tile id="11">
+   <image width="26" height="27" source="MuseumAssets/MuseumAssets00012.png"/>
+  </tile>
+ </tileset>
  <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
@@ -416,5 +455,17 @@
   <object id="86" gid="97" x="262.869" y="54.9488" width="37" height="25"/>
   <object id="87" gid="95" x="327.96" y="56.0397" width="35" height="24"/>
   <object id="88" gid="99" x="340.545" y="322.121" width="419" height="291"/>
+  <object id="89" gid="111" x="230.509" y="781.491" width="296" height="277"/>
+  <object id="90" gid="105" x="41.5636" y="762.436" width="21" height="67"/>
+  <object id="91" gid="113" x="53.5273" y="799.806" width="32" height="52"/>
+  <object id="92" gid="112" x="52.4848" y="840.848" width="27" height="37"/>
+  <object id="93" gid="108" x="93.1802" y="836.638" width="26" height="27"/>
+  <object id="94" gid="108" x="216.926" y="834.711" width="26" height="27"/>
+  <object id="95" gid="103" x="196.944" y="840.329" width="6" height="27"/>
+  <object id="96" gid="104" x="273.155" y="823.026" width="34" height="69"/>
+  <object id="97" gid="108" x="269.673" y="778.327" width="26" height="27"/>
+  <object id="98" gid="107" x="283.527" y="746.655" width="6" height="27"/>
+  <object id="99" gid="107" x="293.891" y="650.109" width="6" height="27"/>
+  <object id="100" gid="112" x="245.879" y="604.121" width="27" height="37"/>
  </objectgroup>
 </map>
