@@ -716,6 +716,9 @@
             "dynamicWrapping": false,
             "scaleInDock": 1
         },
+        "CityMap.tmx#HouseAssets": {
+            "dynamicWrapping": true
+        },
         "CityMap.tmx#MapBase": {
             "dynamicWrapping": true
         },
@@ -726,7 +729,7 @@
         }
     },
     "last.exportedFilePath": "/Users/samridhgupta/Desktop/Maps",
-    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/MallAssets",
+    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/HouseAssets",
     "map.height": 43,
     "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
     "map.lastUsedFormat": "tmx",

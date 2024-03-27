@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="73">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="89">
  <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -273,6 +273,63 @@
    <image width="39" height="29" source="MallAssets/MallAssets00028.png"/>
   </tile>
  </tileset>
+ <tileset firstgid="85" name="HouseAssets" tilewidth="535" tileheight="392" tilecount="18" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="46" height="28" source="HouseAssets/HouseAssets00001.png"/>
+  </tile>
+  <tile id="1">
+   <image width="40" height="27" source="HouseAssets/HouseAssets00002.png"/>
+  </tile>
+  <tile id="2">
+   <image width="42" height="28" source="HouseAssets/HouseAssets00003.png"/>
+  </tile>
+  <tile id="3">
+   <image width="35" height="24" source="HouseAssets/HouseAssets00004.png"/>
+  </tile>
+  <tile id="4">
+   <image width="188" height="111" source="HouseAssets/HouseAssets00005.png"/>
+  </tile>
+  <tile id="5">
+   <image width="286" height="176" source="HouseAssets/HouseAssets00006.png"/>
+  </tile>
+  <tile id="6">
+   <image width="48" height="31" source="HouseAssets/HouseAssets00007.png"/>
+  </tile>
+  <tile id="7">
+   <image width="43" height="28" source="HouseAssets/HouseAssets00008.png"/>
+  </tile>
+  <tile id="8">
+   <image width="271" height="182" source="HouseAssets/HouseAssets00009.png"/>
+  </tile>
+  <tile id="9">
+   <image width="37" height="25" source="HouseAssets/HouseAssets00010.png"/>
+  </tile>
+  <tile id="10">
+   <image width="35" height="24" source="HouseAssets/HouseAssets00011.png"/>
+  </tile>
+  <tile id="11">
+   <image width="41" height="25" source="HouseAssets/HouseAssets00012.png"/>
+  </tile>
+  <tile id="12">
+   <image width="37" height="25" source="HouseAssets/HouseAssets00013.png"/>
+  </tile>
+  <tile id="13">
+   <image width="20" height="21" source="HouseAssets/HouseAssets00014.png"/>
+  </tile>
+  <tile id="14">
+   <image width="419" height="291" source="HouseAssets/HouseAssets00015.png"/>
+  </tile>
+  <tile id="15">
+   <image width="41" height="25" source="HouseAssets/HouseAssets00016.png"/>
+  </tile>
+  <tile id="16">
+   <image width="245" height="142" source="HouseAssets/HouseAssets00017.png"/>
+  </tile>
+  <tile id="17">
+   <image width="535" height="392" source="HouseAssets/HouseAssets00018.png"/>
+  </tile>
+ </tileset>
  <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
@@ -344,5 +401,20 @@
   <object id="70" gid="72" x="461.417" y="548.583" width="40" height="38"/>
   <object id="71" gid="76" x="504.855" y="544.418" width="50" height="30"/>
   <object id="72" gid="78" x="552.582" y="551.418" width="46" height="31"/>
+  <object id="73" gid="78" x="1644.04" y="1031.96" width="46" height="31"/>
+  <object id="74" gid="78" x="4368.29" y="3183.71" width="46" height="31"/>
+  <object id="75" gid="102" x="200.055" y="401.945" width="535" height="392"/>
+  <object id="76" gid="91" x="153.58" y="482.783" width="48" height="31"/>
+  <object id="77" gid="86" x="150.82" y="442.998" width="40" height="27"/>
+  <object id="78" gid="85" x="150.615" y="407.567" width="46" height="28"/>
+  <object id="79" gid="87" x="152.327" y="371.673" width="42" height="28"/>
+  <object id="80" gid="97" x="135.162" y="53.0198" width="37" height="25"/>
+  <object id="82" gid="100" x="296.073" y="55.9273" width="41" height="25"/>
+  <object id="83" gid="96" x="168.271" y="53.5471" width="41" height="25"/>
+  <object id="84" gid="95" x="199.033" y="52.7851" width="35" height="24"/>
+  <object id="85" gid="92" x="235.997" y="56.0033" width="43" height="28"/>
+  <object id="86" gid="97" x="262.869" y="54.9488" width="37" height="25"/>
+  <object id="87" gid="95" x="327.96" y="56.0397" width="35" height="24"/>
+  <object id="88" gid="99" x="340.545" y="322.121" width="419" height="291"/>
  </objectgroup>
 </map>
