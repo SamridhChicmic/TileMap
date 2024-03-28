@@ -483,7 +483,11 @@
   <object id="20" gid="4" x="1497.2" y="525.349" width="16" height="9"/>
   <object id="21" gid="4" x="1549.69" y="508.309" width="16" height="9"/>
   <object id="22" gid="12" x="1442.85" y="851.145" width="21" height="14"/>
-  <object id="29" gid="33" x="1300.27" y="789.727" width="220" height="220"/>
+  <object id="29" gid="33" x="1300.27" y="789.727" width="220" height="220">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.1&quot;}"/>
+   </properties>
+  </object>
   <object id="30" gid="29" x="1220.46" y="838.206" width="25" height="67"/>
   <object id="31" gid="31" x="1272.95" y="841.048" width="47" height="43"/>
   <object id="32" gid="30" x="1351.03" y="831.468" width="63" height="47"/>
@@ -498,13 +502,17 @@
   <object id="45" gid="49" x="756.845" y="126.155" width="44" height="30"/>
   <object id="46" gid="48" x="761.018" y="22.9818" width="44" height="30"/>
   <object id="47" gid="50" x="758.609" y="90.3909" width="48" height="32"/>
-  <object id="48" gid="62" x="527.691" y="770.309" width="203" height="154"/>
+  <object id="48" gid="62" x="527.691" y="770.309" width="203" height="154">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.25&quot;}"/>
+   </properties>
+  </object>
   <object id="49" gid="89" x="636.986" y="706.514" width="39" height="29"/>
   <object id="50" gid="89" x="679" y="711" width="39" height="29"/>
   <object id="51" gid="89" x="641.891" y="654.109" width="39" height="29"/>
   <object id="53" gid="63" x="940.118" y="678.882" width="447" height="341">
    <properties>
-    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.5&quot;}"/>
+    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.3&quot;}"/>
    </properties>
   </object>
   <object id="55" gid="85" x="1079.88" y="698.788" width="87" height="75"/>
@@ -523,7 +531,11 @@
   <object id="70" gid="77" x="461.417" y="548.583" width="40" height="38"/>
   <object id="71" gid="81" x="504.855" y="544.418" width="50" height="30"/>
   <object id="72" gid="83" x="552.582" y="551.418" width="46" height="31"/>
-  <object id="75" gid="107" x="200.055" y="401.945" width="535" height="392"/>
+  <object id="75" gid="107" x="200.055" y="401.945" width="535" height="392">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0&quot;,&quot;y&quot;:&quot;0.7&quot;}"/>
+   </properties>
+  </object>
   <object id="76" gid="96" x="153.58" y="482.783" width="48" height="31"/>
   <object id="77" gid="91" x="150.82" y="442.998" width="40" height="27"/>
   <object id="78" gid="90" x="150.615" y="407.567" width="46" height="28"/>
@@ -548,11 +560,19 @@
   <object id="98" gid="112" x="283.527" y="746.655" width="6" height="27"/>
   <object id="99" gid="112" x="293.891" y="650.109" width="6" height="27"/>
   <object id="100" gid="117" x="245.879" y="604.121" width="27" height="37"/>
-  <object id="102" gid="125" x="810.636" y="1235.36" width="610" height="395"/>
+  <object id="102" gid="125" x="810.636" y="1235.36" width="610" height="395">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0&quot;}"/>
+   </properties>
+  </object>
   <object id="103" gid="126" x="759.43" y="1345.9" width="120" height="80"/>
   <object id="104" gid="123" x="1060.93" y="1261.07" width="408" height="266"/>
   <object id="105" gid="120" x="1083.43" y="1371.24" width="140" height="144"/>
-  <object id="106" gid="127" x="1072.25" y="1001.08" width="85" height="152"/>
+  <object id="106" gid="127" x="1072.25" y="1001.08" width="85" height="152">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.4&quot;}"/>
+   </properties>
+  </object>
   <object id="107" gid="121" x="814.376" y="1188.29" width="36" height="72"/>
   <object id="112" gid="124" x="857.906" y="1355.73" width="50" height="37"/>
   <object id="114" gid="129" x="5.38182" y="1334.25" width="22" height="23"/>
@@ -591,17 +611,21 @@
   <object id="154" gid="139" x="266.873" y="1033.13" width="305" height="228"/>
   <object id="155" gid="140" x="386.655" y="953.345" width="48" height="69"/>
   <object id="156" gid="141" x="486.927" y="975.073" width="107" height="115"/>
-  <object id="181" gid="59" x="667.024" y="77.6424" width="137" height="253"/>
+  <object id="181" gid="59" x="667.024" y="77.6424" width="137" height="253">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.2&quot;}"/>
+   </properties>
+  </object>
   <object id="184" gid="61" x="538.867" y="137.8" width="272" height="330">
    <properties>
-    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0&quot;}"/>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.2&quot;}"/>
    </properties>
   </object>
  </objectgroup>
  <objectgroup id="5" name="Object Layer 3" visible="0"/>
- <layer id="1" name="layer" width="51" height="43">
+ <layer id="1" name="layer" width="51" height="43" visible="0">
   <data encoding="base64" compression="zlib">
-   eJzlltkOxSAIRP3/h37zfWrSGIEZGGzNJWm6KMtBC44xxjXychn3+TnSZ3TQeKyL0R1jrYfYVrJ448xYlAPWHquPsKBrdgLL/R75PIWlU77KcsK6sDUuE0tWMiyMXWtsNf5mf6n47GR5Q9S583r1G1KJg2Wxzlzq/Ea2vDOQgoWNx7O9Glud+1b6apZINzMeza/oq1m8uZ3nau8Z0Y3mzbFb+7WrZyjmPOdaLJ1+O2wycav7PVqDUJ2Mb4+VqTvI3vb0K4KwWN+jf5ONwbPP7F2vx0X+d9QQZF2RPYzkTS1RPF5d7von53WP7pZvJNere7WWrXxmWFT/y5fFYjuJ4ZbdHDvrwvOb1/NXexbpLdkry6bMmYKjwqKUXSxM38jmqJOF/e7FhEg3S6Z2fZHF88nGxNhWs2T3lxUPamvnuvwbS8VWJ8s1PUdzq3nZsS7IvEwdsWyoWCp7sCoqlkrcqlyq9CvyA/pUW9o=
+   eJzlltsOxCAIRP3/h37zPjVpjMAMDLZmSTbtVrkcVHCMMa6Rl8t4zu+RPqODxmP9GN0x1nqIbSWLN86MRTlg7bH6CAu6Ziew3P8jn6ewdMpXWU5YF7bGZWLJSoaFsWuNrcbf7C8Vn50sb4g6d16vfkMqcbAs1p1Lnd/IlncHUrCw8Xi2V2Ore99KX80S6WbGo/kVfTWLN7fzXu29I7rRvDl2a7929QzFnOdci6XTb4dNJm51v0drEKqT8e2xZs8qmpOdLNb36GyyMXj2mb3r9bjI/44agqwrsoeRvKklisery11ncl736Gn5RnK9elZr2cpnhkV1Xr4sFttJDLfs5thZF57fvJ6/2rNIb8n+smzKnCk4KixK2cXC9I1sjjpZ2O9eTIh0s2Rq1xdZPJ9sTIxtNUt2f1nxoLZ2rsu/sVRsdbJc03s0t5qXHeuCzMvUEcuGiqWyB6uiYqnErcqlSr8iP/KmW0w=
   </data>
  </layer>
 </map>
