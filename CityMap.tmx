@@ -608,9 +608,21 @@
   <object id="151" gid="136" x="347.341" y="1377.16" width="62" height="44"/>
   <object id="152" gid="136" x="419.821" y="1376.54" width="62" height="44"/>
   <object id="153" gid="136" x="494.073" y="1376.11" width="62" height="44"/>
-  <object id="154" gid="139" x="266.873" y="1033.13" width="305" height="228"/>
-  <object id="155" gid="140" x="386.655" y="953.345" width="48" height="69"/>
-  <object id="156" gid="141" x="486.927" y="975.073" width="107" height="115"/>
+  <object id="154" gid="139" x="266.873" y="1033.13" width="305" height="228">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.1&quot;}"/>
+   </properties>
+  </object>
+  <object id="155" gid="140" x="386.655" y="953.345" width="48" height="69">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.3&quot;}"/>
+   </properties>
+  </object>
+  <object id="156" gid="141" x="486.927" y="975.073" width="107" height="115">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.1&quot;}"/>
+   </properties>
+  </object>
   <object id="181" gid="59" x="667.024" y="77.6424" width="137" height="253">
    <properties>
     <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.2&quot;}"/>
