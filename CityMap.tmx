@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="192">
+<map version="1.5" tiledversion="1.5.0" orientation="isometric" renderorder="right-up" width="51" height="43" tilewidth="55" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="196">
  <tileset firstgid="1" name="MapBase" tilewidth="2605" tileheight="1593" tilecount="2" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
@@ -417,7 +417,7 @@
    <image width="85" height="152" source="HotelAssets/HotelAssets00008.png"/>
   </tile>
  </tileset>
- <tileset firstgid="133" name="GardenAssets" tilewidth="646" tileheight="329" tilecount="14" columns="0">
+ <tileset firstgid="133" name="GardenAssets" tilewidth="645" tileheight="329" tilecount="14" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">
    <image width="113" height="98" source="GardenAssets/GardenAssets00001.png"/>
@@ -452,17 +452,17 @@
   <tile id="10">
    <image width="29" height="49" source="GardenAssets/GardenAssets00011.png"/>
   </tile>
-  <tile id="11">
-   <image width="307" height="307" source="GardenAssets/GardenAssets000012.png"/>
-  </tile>
   <tile id="12">
    <image width="44" height="69" source="GardenAssets/GardenAssets000013.png"/>
   </tile>
   <tile id="13">
    <image width="105" height="126" source="GardenAssets/GardenAssets000014.png"/>
   </tile>
+  <tile id="14">
+   <image width="305" height="228" source="GardenAssets/GardenAssets000012.png"/>
+  </tile>
  </tileset>
- <tileset firstgid="147" source="floor.tsx"/>
+ <tileset firstgid="148" source="floor.tsx"/>
  <objectgroup id="3" name="base_map">
   <object id="157" gid="1" x="1565.96" y="1442.04" width="2605" height="1508"/>
  </objectgroup>
@@ -619,11 +619,6 @@
   <object id="151" gid="141" x="347.341" y="1377.16" width="62" height="44"/>
   <object id="152" gid="141" x="419.821" y="1376.54" width="62" height="44"/>
   <object id="153" gid="141" x="494.073" y="1376.11" width="62" height="44"/>
-  <object id="154" gid="144" x="266.873" y="1033.13" width="305" height="228">
-   <properties>
-    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.1&quot;}"/>
-   </properties>
-  </object>
   <object id="155" gid="145" x="386.655" y="953.345" width="48" height="69">
    <properties>
     <property name="anchor" value="{&quot;x&quot;:&quot;0.5&quot;,&quot;y&quot;:&quot;0.3&quot;}"/>
@@ -650,11 +645,16 @@
   <object id="188" gid="30" x="1417.33" y="516.673" width="59" height="39"/>
   <object id="189" gid="30" x="1381.49" y="1150.51" width="59" height="39"/>
   <object id="190" gid="29" x="1398.25" y="1234.75" width="48" height="53"/>
+  <object id="195" gid="147" x="270.2" y="1031.8" width="305" height="228">
+   <properties>
+    <property name="anchor" value="{&quot;x&quot;:&quot;-0.5&quot;,&quot;y&quot;:&quot;0.1&quot;}"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup id="5" name="Object Layer 3" visible="0"/>
  <layer id="1" name="layer" width="51" height="43" visible="0">
   <data encoding="base64" compression="zlib">
-   eJztlcEOAyEIRPn/qz/cQy/GKAwwuEtakk1biwNPkB0iMuRrQ3lE8VnXZ1/LVh8tB/Rhs6z7NP2dT8RYLJqutq8jSySfzF6EBY3XhaXS3srSoS4oZxcWVBuJi6yj8Z64L9UsTxj7fq51edpusqzvzlWL0Ztav1uPSA2Llw2ZF9YdF7nDYul7a5nthUqWU5xZf7eWuWOn7yyWnf9JR+uzqFXU5ZRzZdwKzVPe0dgei7Bk+iAbe7cP0dNyYFi0LgiLJwckL0QnWxPWuUZjzDPLYkBmBtusfLz9zchxOD+1vHa6liaTqYoFidXBtHvczdB5hNwfdLagM91rWk0yLJ45gupn2Fjz6s8Sm1Vr3N3/0TOqZPGsWz3/BhYr7y4sWkxtLaNfwZLpu0wP36zLr7FktCpZdud98mOcy426WD7ROaLpMFgivFkGK7aXJXO2rLNk7Z9/e+0DOWH17g==
+   eJzllEsOwzAIRH3/dQ7cRTcV4jPA4NjqSFEkJx54GPystZ711eM8y/lHri9jnya57uWAPjtYIm9tX0YsFs8X9db2ZbSLpZJPZy+zdrewTOpEllvOpTsvE3Mm92ZYMr6Z7yf2WCYusp713D3nvzEZtauwTLOfwMLsTa/fo0fLzYuj/Y/GQbytb1bOb7BE/tmz7PbCJIsWR/pra50Z07yZLNH/yJzKd0YT56LNxXTcCc9Mjd9m6fR5N7a1D/Hz4kf5IaqeizdrlfioP+LVORNWj1RjaHX0+qYapypkxjL9zcjRuoOiuynKRau19mYyTbEgsW6QN8e3Cb2PkPlB7xb0Ts/KO5MOS+YeQf07bMjcRXEYHBMsVb8pFtkT1rcl/qvWaJoFXY96/gSWKO9bWKzcp1isvV0Wrf8tjiqLFXf6XP6VBdVuFqvXvBxQvXEuVlwrh47YLNU+ZIjF0qktq5YMFumX1Qc0NRLX
   </data>
  </layer>
 </map>
