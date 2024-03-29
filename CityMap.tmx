@@ -451,7 +451,7 @@
  <objectgroup id="3" name="base_map">
   <object id="157" gid="1" x="1565.96" y="1442.04" width="2605" height="1508"/>
  </objectgroup>
- <layer id="4" name="hurdles" width="51" height="43">
+ <layer id="4" name="hurdles" width="51" height="43" visible="0">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAAAAAAAA8G4iRAAB
   </data>
@@ -635,9 +635,9 @@
   </object>
  </objectgroup>
  <objectgroup id="5" name="Object Layer 3" visible="0"/>
- <layer id="1" name="layer" width="51" height="43" visible="0">
+ <layer id="1" name="layer" width="51" height="43">
   <data encoding="base64" compression="zlib">
-   eJzlltsOxCAIRP3/h37zPjVpjMAMDLZmSTbtVrkcVHCMMa6Rl8t4zu+RPqODxmP9GN0x1nqIbSWLN86MRTlg7bH6CAu6Ziew3P8jn6ewdMpXWU5YF7bGZWLJSoaFsWuNrcbf7C8Vn50sb4g6d16vfkMqcbAs1p1Lnd/IlncHUrCw8Xi2V2Ore99KX80S6WbGo/kVfTWLN7fzXu29I7rRvDl2a7929QzFnOdci6XTb4dNJm51v0drEKqT8e2xZs8qmpOdLNb36GyyMXj2mb3r9bjI/44agqwrsoeRvKklisery11ncl736Gn5RnK9elZr2cpnhkV1Xr4sFttJDLfs5thZF57fvJ6/2rNIb8n+smzKnCk4KixK2cXC9I1sjjpZ2O9eTIh0s2Rq1xdZPJ9sTIxtNUt2f1nxoLZ2rsu/sVRsdbJc03s0t5qXHeuCzMvUEcuGiqWyB6uiYqnErcqlSr8iP/KmW0w=
+   eJztlcEOAyEIRPn/g9/cQy/GKAwwuEtakk1biwNPkB0iMuRrQ3lE8VnXZ1/LVh8tB/Rhs6z7NP2dT8RYLJqutq8jSySfzF6EBY3XhaXS3srSoS4oZxcWVBuJi6yj8Z64L9UsTxj7fq51edpusqzvzlWL0Ztav1uPSA2Llw2ZF9YdF7nDYul7a5nthUqWU5xZf7eWuWOn7yyWnf9JR+uzqFXU5ZRzZdwKzVPe0dgei7Bk+iAbe7cP0dNyYFi0LgiLJwckL0QnWxPWuUZjzDPLYkBmBtusfLz9zchxOD+1vHa6liaTqYoFidXBtHvczdB5hNwfdLagM91rWk0yLJ45gupn2Fjz6s8Sm1Vr3N3/0TOqZPGsWz3/BhYr7y4sWkxtLaNfwZLpu0wP36zLr7FktCpZdud98mOcy426WD7ROaLpMFgivFkGK7aXJXO2rLNk7Z9/e+0DVjHk3A==
   </data>
  </layer>
 </map>

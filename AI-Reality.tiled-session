@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "CityMap.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
-        "MapBase",
-        "/Users/samridhgupta/Desktop/Retrosis",
         "TileBase",
-        "MapAssets"
+        "MapBase",
+        "MapAssets",
+        "/Users/samridhgupta/Desktop/Retrosis"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -425,6 +425,51 @@
         "/Users/samridhgupta/Desktop/TileMap/TiledMapData/Map1.tmx#TreeGroup": {
             "scaleInDock": 1
         },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1026,
+                "y": 661
+            }
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#BeachAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#CafeAsset": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#CasinoAssets": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#DockAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#GardenAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#HotelAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#HouseAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#MallAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#MapBase": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#MuseumAssets": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx#SmallHouseAsstes": {
+            "scaleInDock": 1
+        },
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/floor.tsx": {
+            "scaleInDock": 1
+        },
         "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/floor2.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1
@@ -703,10 +748,10 @@
         },
         "CityMap.tmx": {
             "scale": 0.5,
-            "selectedLayer": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1083,
-                "y": 459
+                "x": 1195,
+                "y": 604
             }
         },
         "CityMap.tmx#BeachAssets": {
@@ -718,7 +763,8 @@
         },
         "CityMap.tmx#CasinoAssets": {
             "dynamicWrapping": true,
-            "scaleInDock": 0.33
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.33
         },
         "CityMap.tmx#CityBase": {
             "dynamicWrapping": false,
@@ -744,7 +790,8 @@
         },
         "CityMap.tmx#MapBase": {
             "dynamicWrapping": true,
-            "scaleInDock": 0.25
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.33
         },
         "CityMap.tmx#MuseumAssets": {
             "scaleInDock": 0.33
@@ -755,7 +802,7 @@
         "floor.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
-            "scaleInEditor": 0.25
+            "scaleInEditor": 0.33
         }
     },
     "last.exportedFilePath": "/Users/samridhgupta/Desktop/Maps",
@@ -770,14 +817,13 @@
     "map.tileWidth": 55,
     "map.width": 51,
     "openFiles": [
-        "CityMap.tmx",
-        "floor.tsx"
     ],
     "project": "AI-Reality.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "floor.tsx",
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx",
         "CityMap.tmx",
+        "floor.tsx",
         "CityView.tmx",
         "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/isoMetricMap.tmx",
         "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/GameMap1/GameMap1.tmx",
@@ -786,8 +832,7 @@
         "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/map-1920*1080/map.tmx",
         "/Users/samridhgupta/Documents/Cocos2023/InHouseProjects/survival_party_game_cocos/assets/resources/maps-001/map.tmx",
         "/Users/samridhgupta/Documents/TileMap/TiledMapData/Map1.tmx",
-        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/mainRoom.tmx",
-        "/Users/samridhgupta/Desktop/Cocos_Project/demoAntvsAnt/assets/resources/TiledMapData/Map1.tmx"
+        "/Users/samridhgupta/Desktop/Cocos_Project/TiledMapDemo/assets/resource/TiledMapData/project/mainRoom.tmx"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFormat": "tsx",
