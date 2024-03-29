@@ -3,12 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "CityMap.tmx",
     "expandedProjectPaths": [
+        "/Users/samridhgupta/Desktop/Retrosis",
         "TileBase",
         "MapBase",
-        "MapAssets",
-        "/Users/samridhgupta/Desktop/Retrosis"
+        "MapAssets"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -747,11 +747,11 @@
             "scaleInDock": 1
         },
         "CityMap.tmx": {
-            "scale": 0.5,
+            "scale": 1.5,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1195,
-                "y": 604
+                "x": 741.3333333333333,
+                "y": 432.3333333333333
             }
         },
         "CityMap.tmx#BeachAssets": {
@@ -806,7 +806,7 @@
         }
     },
     "last.exportedFilePath": "/Users/samridhgupta/Desktop/Maps",
-    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/CasinoAssets",
+    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/BeachAssets",
     "map.height": 43,
     "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
     "map.lastUsedFormat": "tmx",
@@ -817,12 +817,13 @@
     "map.tileWidth": 55,
     "map.width": 51,
     "openFiles": [
+        "CityMap.tmx"
     ],
     "project": "AI-Reality.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx",
         "CityMap.tmx",
+        "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/AI-Reality/CityMap.tmx",
         "floor.tsx",
         "CityView.tmx",
         "/Users/samridhgupta/Documents/Cocos2023/ClientProject/ai-reality-cocos/assets/maps/isoMetricMap/project/isoMetricMap.tmx",
