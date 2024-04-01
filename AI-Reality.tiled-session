@@ -5,16 +5,16 @@
     },
     "activeFile": "CityMap.tmx",
     "expandedProjectPaths": [
-        "/Users/samridhgupta/Desktop/Retrosis",
         "TileBase",
-        "MapBase",
-        "MapAssets"
+        "/Users/samridhgupta/Desktop/Retrosis",
+        "MapAssets",
+        "MapBase"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.25
         },
         "/Users/samridhgupta/Desktop/Cocos_Project/Ant-vs-Ant/assets/Path2/Map.tmx": {
             "scale": 1,
@@ -747,11 +747,11 @@
             "scaleInDock": 1
         },
         "CityMap.tmx": {
-            "scale": 1.5,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 741.3333333333333,
-                "y": 432.3333333333333
+                "x": 1344,
+                "y": 517
             }
         },
         "CityMap.tmx#BeachAssets": {
@@ -776,17 +776,20 @@
         },
         "CityMap.tmx#GardenAssets": {
             "dynamicWrapping": true,
-            "scaleInDock": 0.33
+            "scaleInDock": 0.125
         },
         "CityMap.tmx#HotelAssets": {
-            "scaleInDock": 0.25
+            "dynamicWrapping": false,
+            "scaleInDock": 0.125
         },
         "CityMap.tmx#HouseAssets": {
             "dynamicWrapping": true,
             "scaleInDock": 0.25
         },
         "CityMap.tmx#MallAssets": {
-            "scaleInDock": 0.25
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.25
         },
         "CityMap.tmx#MapBase": {
             "dynamicWrapping": true,
@@ -797,7 +800,7 @@
             "scaleInDock": 0.33
         },
         "CityMap.tmx#SmallHouseAsstes": {
-            "scaleInDock": 1
+            "scaleInDock": 2
         },
         "floor.tsx": {
             "dynamicWrapping": false,
@@ -806,7 +809,7 @@
         }
     },
     "last.exportedFilePath": "/Users/samridhgupta/Desktop/Maps",
-    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/GardenAssets",
+    "last.imagePath": "/Users/samridhgupta/Desktop/AI-Reality/MallAssets",
     "map.height": 43,
     "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
     "map.lastUsedFormat": "tmx",
